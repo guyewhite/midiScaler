@@ -11,11 +11,7 @@ A useful starting point for playing scales on micro-controller-based midi device
 
 ### Getting Started
 
-Coming soon.
-
-## Documentation
-
-Coming soon.
+Usage: ./midiScaler
 
 ## Contact
 

@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/github/guyewhite/midiScaler/COPYING.md)](LICENSE)
+[![License](https://img.shields.io/github/license/guyewhite/midiScaler)](LICENSE)
 
 # midiScaler
 

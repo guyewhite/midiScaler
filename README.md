@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/github/license/guyewhite/COPYING?maxAge=3600)](LICENSE)
+[![License](https://img.shields.io/github/license/guyewhite/COPYING)](LICENSE)
 
 # midiScaler
 

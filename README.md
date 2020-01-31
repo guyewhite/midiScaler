@@ -1,4 +1,4 @@
-[![Build](https://img.shields.io/badge/build-passing-brightgreen)]
+[![Build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/guyewhite/midiScaler/issues)
 [![License](https://img.shields.io/github/license/guyewhite/midiScaler)](LICENSE.md) [![GitHub release](https://img.shields.io/github/v/release/guyewhite/midiScaler)](https://github.com/guyewhite/midiScaler/releases/latest)
 
 # midiScaler

@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/github/license/guyewhite/midiScaler)](LICENSE.md)
+[![License](https://img.shields.io/github/license/guyewhite/midiScaler)](LICENSE.md) [![GitHub release](https://img.shields.io/github/v/release/guyewhite/midiScaler)](https://github.com/guyewhite/midiScaler/releases/latest)
 
 # midiScaler
 

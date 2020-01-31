@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/github/license/guyewhite/midiScaler.svg?maxAge=3600)](LICENSE)
+
 # midiScaler
 
 A useful starting point for playing scales on micro-controller-based midi devices.
@@ -16,7 +18,7 @@ Coming soon.
 
 ## Contact
 
-Coming soon.
+To tell me about a bug, figure out how to use this thing, or ask for help, please [create an issue](https://github.com/guyewhite/midiScaler/issues/new).
 
 ## License
 
